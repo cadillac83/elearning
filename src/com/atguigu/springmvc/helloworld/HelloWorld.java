@@ -15,7 +15,7 @@ public class HelloWorld {
 	  q*/
 	@RequestMapping("/helloworld")
 	public String hello(){
-		System.out.println("Hello World ! -_-!!");
+		System.out.println("Hello World ！! -_-!!");
 		return "success";
 	}
 
